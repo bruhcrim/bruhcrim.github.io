@@ -1,5 +1,5 @@
 # bruhcrim.github.io
-Crimson test website using github pages
+My very own test website using github pages!
 
 Working on a fun personal website to renforce my HTML and CSS skills as well as learn web hosting and using Github.
 Also this is a fun way to improve my writing skills.
