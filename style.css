@@ -32,11 +32,6 @@ p {
   color: #FFFFFF;
 }
 
-a:visited {
-  font-family: arial;
-  color: darkorchid;
-}
-
 .logo {
   cursor: pointer;
 }
