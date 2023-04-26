@@ -58,6 +58,7 @@ p {
 .nav_links li:hover {
   scale: 1.05;
   transition: all 0.5s ease 0s;
+}
 
 .nav_links li a {
   transition: all 0.3s ease 0s;
