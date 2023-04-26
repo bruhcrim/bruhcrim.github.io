@@ -5,7 +5,7 @@
   background-color: #2C2F33;
 }
 
-li, a, button {
+.navbarlink, li, button {
   font-family: arial;
   color: #FFFFFF;
   text-decoration: none;
@@ -25,11 +25,15 @@ body {
 h1 {
   font-family: arial;
   color: #FFFFFF;
+  margin: auto;
+  width: 50%;
 }
 
 p {
   font-family: arial;
   color: #FFFFFF;
+  margin: auto;
+  width: 50%;
 }
 
 .logo {
