@@ -15,3 +15,8 @@ p {
 a {
   font-family: arial;
 }
+
+a:visited {
+  font-family: arial;
+  color: darkorchid
+}
