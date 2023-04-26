@@ -2,7 +2,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #2C2F33;
 }
 
 .navbarlink, li, button {
@@ -15,11 +14,12 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 5%;
+  padding: 5px 5%;
+  background-color: #111111;
 }
 
 body {
-  background-color: #2C2F33;
+  background-color: #333333;
 }
 
 h1 {
