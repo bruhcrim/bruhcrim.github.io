@@ -5,7 +5,7 @@
   background-color: #2C2F33;
 }
 
-li, button {
+li, a, button {
   font-family: arial;
   color: #FFFFFF;
   text-decoration: none;
@@ -28,11 +28,6 @@ h1 {
 }
 
 p {
-  font-family: arial;
-  color: #FFFFFF;
-}
-
-a {
   font-family: arial;
   color: #FFFFFF;
 }
