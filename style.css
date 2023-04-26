@@ -55,6 +55,10 @@ p {
   padding: 0px 20px;
 }
 
+.nav_links li:hover {
+  scale: 1.05;
+  transition: all 0.5s ease 0s;
+
 .nav_links li a {
   transition: all 0.3s ease 0s;
   font-weight: bold;
@@ -75,4 +79,5 @@ button {
 
 button:hover {
   background-color: rgba(169,0,0,0.7);
+  scale: 1.05;
 }
