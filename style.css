@@ -15,11 +15,11 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 5px 5%;
-  background-color: #111111;
+  background-color: #333333;
 }
 
 body {
-  background-color: #333333;
+  background-color: #111111;
 }
 
 h1 {
@@ -27,6 +27,7 @@ h1 {
   color: #FFFFFF;
   margin: auto;
   width: 50%;
+  padding-top: 10px;
 }
 
 p {
