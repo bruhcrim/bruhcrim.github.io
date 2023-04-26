@@ -1,3 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #2C2F33;
+}
+
+li, button {
+  font-family: arial;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px, 10%;
+}
+
 body {
   background-color: #2C2F33;
 }
