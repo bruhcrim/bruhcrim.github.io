@@ -13,5 +13,7 @@ Stuff to add
 - Fun projects I worked on
 - Current interests/games
 - Blogging section
+- Friends page
+- Lore?🤫
 
 ![KozFace](https://user-images.githubusercontent.com/122399607/234428225-6d2fc4f2-8ec8-4496-a779-b2e0ee7d9aa3.PNG)
