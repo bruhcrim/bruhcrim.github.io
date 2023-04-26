@@ -27,6 +27,7 @@ h1 {
   color: #FFFFFF;
   margin: auto;
   width: 50%;
+  padding: 10px;
 }
 
 p {
@@ -34,7 +35,6 @@ p {
   color: #FFFFFF;
   margin: auto;
   width: 50%;
-  padding: 10px;
 }
 
 a {
