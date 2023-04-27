@@ -15,16 +15,16 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 5px 5%;
-  background-color: #222222;
+  background-color: #333333;
 }
 
 body {
-  background-color: #111111;
+  background-color: #222222;
 }
 
 h1 {
   font-family: arial;
-  color: #FFFFFF;
+  color: #ffffff;
   margin: auto;
   text-align: center;
   width: 50%;
