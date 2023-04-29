@@ -8,6 +8,7 @@ Stuff to add
 - About me
 - CSS
 - Navbar
+- Animations
 - Theme maybe?
 - Minecraft Seasons info
 - Fun projects I worked on
