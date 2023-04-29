@@ -1,7 +1,7 @@
 # bruhcrim.github.io
 My very own test website using github pages!
 
-Working on a fun personal website to renforce my HTML and CSS skills as well as learn web hosting and using Github.
+Working on a fun personal website to reinforce my HTML and CSS skills as well as learn web hosting and using Github.
 Also this is a fun way to improve my writing skills.
 
 Stuff to add
