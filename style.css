@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-  font-family: arial;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
   margin: auto;
   text-align: center;
@@ -34,7 +34,7 @@ h1 {
 }
 
 p {
-  font-family: arial;
+  font-family: 'Roboto', sans-serif;
   color: #FFFFFF;
   margin: auto;
   width: 50%;
